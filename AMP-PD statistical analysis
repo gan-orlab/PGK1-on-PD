@@ -52,7 +52,7 @@ suppressPackageStartupMessages({
 })
 
 ## Working directory
-workdir <- "/lustre07/scratch/leahc/UKBB_withproxy/PGK1"
+workdir <- "/lustre07/scratch/leahc/AMPPD/PGK1"
 setwd(workdir)
 
 ## Output file (meta SKAT-O only)
